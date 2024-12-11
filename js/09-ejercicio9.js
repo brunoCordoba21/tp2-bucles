@@ -18,7 +18,7 @@ let numero = 1
 while (numero <= 500) {
 
     if (numero % 4 === 0) {
-        document.write(`${numero}  (múltiplo de 4) <br>`)
+        document.write(`${numero}  (Múltiplo de 4) <br>`)
 
     } else if (numero % 9 === 0) {
         document.write(`${numero} (Múltiplo de 9 <br>`)
